@@ -1,9 +1,11 @@
 # AI-Self-learning-Chatbot
 ![](https://img.shields.io/badge/CODE-PYTHON-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/version-3.7.3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Model-LSTM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Embeddings-Glove-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Embeddings-SkipGram-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Domain-Chatbot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 The dataset requires two files *movie_converstions* and *movie_lines*. The movie_converstions file was large and not supported by GitHub so a compressed zip version of it is present in the *movie_converstions.zip file*. 
 
 The code files are as follows:
